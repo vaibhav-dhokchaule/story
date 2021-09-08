@@ -1,0 +1,4 @@
+If you really want to become a  full stack web developer you have need to learn front-end and back-end web technologies such as .
+front end technologies are : HTML CSS JS BOOTSTRAP JQUERY REACTJS
+back-end technologies are : NODEJS EXPRESSJS  PHP PYTHON JAVA 
+Databases : MONGODB MYSQL POSTGRESQL ORACLE   
